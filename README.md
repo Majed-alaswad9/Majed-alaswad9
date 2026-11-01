@@ -1,65 +1,200 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<h1 align="center">Hi there 👋, I'm Majed Alaswad</h1>
 
-<p align="left">My name is Majed Alaswad and I'm a Software Engineer || Flutter developer, from Syria</p>
-###
+<h3 align="center">
+  Software Engineer | Flutter Developer 📱
+</h3>
 
-<h2 align="left">About me</h2>
+<p align="center">
+  Passionate about building scalable, high-performance mobile applications
+  with clean architecture and exceptional user experiences.
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MajedALaswad&label=Profile%20Views&color=02569B&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left">✨ Creating bugs since 2020 (the year I started Flutter 😅)<br>📚 I'm a graduate of Information technology (2024).<br>🎯 Goals: Becoming a skilled Flutter developer, contributing to open-source, and building scalable mobile apps<br>🎲 Fun fact: I debug my own bugs more than I write new code</p>
+---
 
-###
+## 👨‍💻 About Me
 
-<h3 align="left">🛠 Language and tools</h3>
+- 🇸🇾 Software Engineer from **Syria**.
+- 🎓 Bachelor's Degree in **Information Engineering (2024)**.
+- 🚀 Building applications with **Flutter since 2020**.
+- 💼 Professional Flutter Developer since **2023**.
+- 📱 Experienced in developing and publishing Android & iOS applications.
+- 🏗️ Passionate about **Clean Architecture, SOLID Principles, and scalable code**.
+- ⚡ Focused on performance optimization, maintainability, and great UX.
+- 🌱 Continuously exploring new technologies and best practices.
+- 🤝 Interested in collaborating on innovative projects and open-source contributions.
+- 🎯 Goal: Build impactful applications that solve real-world problems.
+- 😄 Fun fact: I spend more time debugging edge cases than creating them!
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase,mongodb,postgres,sqlite,supabase" />
+</p>
+
+### 🧰 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma" />
+</p>
+
+---
+
+## 🧠 Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Architecture & State Management
+
+- Clean Architecture
+- SOLID Principles
+- Repository Pattern
+- Dependency Injection
+- Riverpod
+- BLoC / Cubit
+- Provider
+- GoRouter
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 APIs & Integrations
+
+- RESTful APIs
+- Dio & HTTP
+- Firebase Authentication
+- Firebase Cloud Messaging
+- WebSockets & Socket.IO
+- Google Maps Integration
+- Local Notifications
+- Background Services
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile Engineering
+
+- Android & iOS Development
+- Responsive & Adaptive UI
+- App Performance Optimization
+- Local Data Persistence
+- Offline Data Synchronization
+- Deep Linking
+- App Store & Google Play Publishing
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Development Workflow
+
+- Git & GitLab
+- CI/CD with Codemagic
+- Shorebird Code Push
+- Firebase Crashlytics
+- API Testing with Postman
+- Debugging & Troubleshooting
+- Code Refactoring
+- Agile Development
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="left">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+  <!-- GitHub Profile Details -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majed-alaswad9&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
+
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Majed-alaswad9&theme=tokyonight"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Majed-alaswad9&theme=tokyonight"
+    height="170"
+    alt="Top Languages"
+  />
+
+  <br/><br/>
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
 </div>
 
-###
+---
 
-<h3 align="left">Contact</h3>
+## 🌐 Connect With Me
 
-<a href="https://www.instagram.com/majed_alaswad" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/majed-alaswad-5b2743250">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/majed-alaswad-5b2743250" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+<a href="mailto:alaswadmajed389@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="alaswadmajed389@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+<a href="https://t.me/MajedALaswad">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://discord.com/users/963395344929022013" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+
+<a href="https://www.instagram.com/majed_alaswad">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://t.me/MajedALaswad" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge"
-       alt="Telegram logo badge" />
+
+<a href="https://discord.com/users/963395344929022013">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/M.ALaswad9" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"
-       alt="Facebook logo badge" />
+
+<a href="https://www.facebook.com/M.ALaswad9">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+
+</p>
+
+---
+
+<h3 align="center">
+  💡 "Great software is built with clean code, continuous learning, and attention to detail."
+</h3>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
